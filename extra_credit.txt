@@ -1,0 +1,1 @@
+For extra credit, we decided to hash our users' passwords. This measure helps us to defend our users'information in the event of a compromise of the group server. An attacker would only have access to the hashes of the passwords, rather than the passwords themselves, so the attacker gains nothingthrough the compromise

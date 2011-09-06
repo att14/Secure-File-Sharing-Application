@@ -1,0 +1,1 @@
+On Terminal A:1. java RunGroupServer.java2. Enter 1st admin username/passwordOn Terminal B:1. java RunFileServer.java2. Enter name for fileserverOn Terminal C:1. java ClientGUI2. Follow GUI
